@@ -1,3 +1,5 @@
+This is a starting point for a react front end app made with create-react-app.  Simply clone the repo and run npm install.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
